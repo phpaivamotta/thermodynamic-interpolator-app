@@ -7,7 +7,7 @@ This app was built using the libraries:
 * Pandas
 * Scipy
 
-This was my first ever Python project! I was determined to learn python during the summer before my classes began,
+This was my first ever Python project! I was determined to learn Python during the summer before my classes began,
 so I had the idea of putting the Python tutorials I was watching to practice by building a GUI app that would interpolate
 all values from several thermodynamic tables for me.
 
@@ -16,8 +16,7 @@ Where were these tables from and why did I need to use them in the first place?
 Well, I took thermodynamics for one of my college classes and MOST of our time during homework was spent interpolating the damn values!
 After you found the values, it was just plug and chug, but it was hell finding the values in the first place!
 
-This frustrated me to such an extent that I spent a good chunk of my summer copying and pasting the values from my thermodynamics book
-(I finally found  pdf version of the book where I could just copy and paste intead of manually entering the data in excel) and building this 
+This frustrated me to such an extent that I spent a good chunk of my summer copying and pasting the values from my thermodynamics book and building this 
 app so that my colleagues and I would never have to go through this again. 
 
 Finally, I got it done. Drum roll... :drum::drum::drum:Tada! 
@@ -50,7 +49,7 @@ Yeah, it was awful. This is why this app came in handy.
 
 With this app, you can just put in the values you want and the app will spit out all interpolated values for a table!
 
-Go ahead, give it a try! Just download the script and excel file, put them in a separate folder, and run it in your IDE. The GUI will pop-out and you can play around with it! 
+Go ahead, give it a try! Just download the script and excel file, put them in a separate folder, and run it in your IDE. The GUI will pop-up and you can play around with it! 
 
 And don't worry about breaking it with your input, they are all validated.
 
